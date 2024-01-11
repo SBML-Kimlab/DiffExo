@@ -14,3 +14,19 @@ Two dataset files (CSV), including information on the data directories and stati
 **4) PlotTools.py**: generate four types of plots: box plots, heat maps, scatter plots for visualizing binding intensity, and volcano plots for visualizing DEseq2 results.  
 
 ![Figure_S3](https://github.com/SBML-Kimlab/DiffExo/assets/67301306/f4740828-9aad-4adc-b63e-f8ffff917542)
+
+## List of PIP libraries
+**numpy** (1.21.6)  
+**pandas** (1.2.3)  
+**pysam** (0.16.0.1)  
+**scipy** (1.7.3)  
+**matplotlib** (3.5.2)  
+**bioinfokit** (2.1.0)  
+
+## List of R libraries
+**GenomicFeatures** (1.34.8)  
+**SummarizedExperiment** (1.12.0)  
+**DESeq2** (1.22.2)  
+
+## Bowtie mapping option
+bowtie -p 8 -S [bt_index] [FASTQ_R1.fastq]
