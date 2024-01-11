@@ -1,0 +1,5 @@
+,sample_id,BAM,Output
+0,Invitro_1,/home/parkjoonyoung/share/ChIP-exo_optimization/RPPM/0.GitHub/raw_files/bam/ChIP-mini_M-invitro-Sal-HNS-1.bam,/media/sf_Share/ChIP-exo_optimization/RPPM/0.GitHub/output/
+1,Invitro_2,/home/parkjoonyoung/share/ChIP-exo_optimization/RPPM/0.GitHub/raw_files/bam/ChIP-mini_M-invitro-Sal-HNS-2.bam,/media/sf_Share/ChIP-exo_optimization/RPPM/0.GitHub/output/
+2,Invivo_1,/home/parkjoonyoung/share/ChIP-exo_optimization/RPPM/0.GitHub/raw_files/bam/ChIP-mini_M-invivo-Sal-HNS-1.bam,/media/sf_Share/ChIP-exo_optimization/RPPM/0.GitHub/output/
+3,Invivo_2,/home/parkjoonyoung/share/ChIP-exo_optimization/RPPM/0.GitHub/raw_files/bam/ChIP-mini_M-invivo-Sal-HNS-2.bam,/media/sf_Share/ChIP-exo_optimization/RPPM/0.GitHub/output/
