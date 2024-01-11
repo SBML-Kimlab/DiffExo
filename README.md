@@ -1,4 +1,4 @@
-# DiffExo
+# DiffExo  
 
 ## The DiffExo pipeline was developed to perform the following tasks: 
 1) Normalization of TF binding intensity
