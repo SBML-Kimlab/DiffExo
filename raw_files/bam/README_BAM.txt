@@ -1,2 +1,2 @@
-Please make Bam files for using DiffExo pipeline.
+Please make BAM files for using the DiffExo pipeline.
 
