@@ -1,6 +1,6 @@
 # DiffExo
 
-The DiffExo pipeline was developed to perform the following tasks: 
+# The DiffExo pipeline was developed to perform the following tasks: 
 1) Normalization of TF binding intensity
 2) Identification of differentially binding sites between two or more sample groups using DEseq2
 3) Statistics analysis of normalized binding intensity 
