@@ -29,4 +29,6 @@ Two dataset files (CSV), including information on the data directories and stati
 **DESeq2** (1.22.2)  
 
 ## Bowtie mapping option
+'''
 bowtie -p [core] -S [bt_index] [FASTQ_R1.fastq]
+'''
