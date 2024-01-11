@@ -32,3 +32,9 @@ Two dataset files (CSV), including information on the data directories and stati
 ```
 bowtie -p [core] -S [bt_index] [FASTQ_R1.fastq]
 ```
+
+## References
+Love, M.I., Huber, W., and Anders, S.J.G.b. (2014). Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2. 15, 1-21.  
+Huang, Y., Wang, J.Y., Wei, X.M., Hu, B.J.A.M., and Materials (2014). Bioinfo-Kit: a sharing software tool for bioinformatics. 472, 466-469.  
+
+If you have any questions, please feel free to contact the author via email. [jjypark56@gmail.com]
