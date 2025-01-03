@@ -33,31 +33,6 @@ Two dataset files (CSV), including information on the data directories and stati
 bowtie -p [core] -S [bt_index] [FASTQ_R1.fastq]
 ```
 
-## Directory Structure
-This repository contains a structured directory system to efficiently manage and organize DiffExo's data and output files. 
-Below is a detailed explanation of the folders within the main directory.
-
-main/
-│
-├── localPNC.py
-├── DEseq2Tools.py
-├── PlotTools.py
-├── StatAnalysis.py
-│ 
-├── output/
-│   └── [processed files]
-│   
-├── raw_csv_files/
-│   └── [raw data in CSV format, e.g., raw_DEseq2_HNS.csv]
-│
-└── raw_files/
-    ├── bam
-    │   └── [e.g., ChIP-mini_M-invitro-Sal-HNS-1.bam, ChIP-mini_M-invitro-Sal-HNS-2.bam, 
-    │        ChIP-mini_M-invivo-Sal-HNS-1.bam, ChIP-mini_M-invivo-Sal-HNS-2.bam]
-    │   
-    └── peak_gff
-        └── [e.g., ChIP-mini_14082s-HNS-region.gff]
-
 ## References
 Love, M.I., Huber, W., and Anders, S.J.G.b. (2014). Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2. 15, 1-21.  
 Eder, T., and Grebien, F.J.G.B. (2022). Comprehensive assessment of differential ChIP-seq tools guides optimal algorithm selection. 23, 119.  
