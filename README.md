@@ -33,6 +33,10 @@ Two dataset files (CSV), including information on the data directories and stati
 bowtie -p [core] -S [bt_index] [FASTQ_R1.fastq]
 ```
 
+## Citation information
+ChIP-mini: a low-input ChIP-exo protocol for elucidating DNA-binding protein dynamics in intracellular pathogens. Park JY#, Jang M#, Choi E, Lee SM, Bang I, Woo J, Kim S, Lee EJ*, Kim D*. Nucleic Acids Res. 2025 Jan 27. 
+
+
 ## References
 Love, M.I., Huber, W., and Anders, S.J.G.b. (2014). Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2. 15, 1-21.  
 Eder, T., and Grebien, F.J.G.B. (2022). Comprehensive assessment of differential ChIP-seq tools guides optimal algorithm selection. 23, 119.  
